@@ -1,28 +1,26 @@
-# 👋 안녕하세요! Hi! I'm Daoll (hamret)
+# 안녕하세요! Hi! I'm Daoll (hamret)
 
-🇰🇷 풀스택 개발자 Daoll(hamret)입니다.  
+풀스택 개발자 Daoll(hamret)입니다.  
 웹, 모바일, 인공지능까지 다양한 프로젝트와 기술을 경험하며 성장하고 있습니다.  
-새로운 도전과 꾸준한 성장을 추구합니다.
 
 ---
 
-🇺🇸 I'm Daoll (hamret), a Full Stack Developer.  
+I'm Daoll (hamret), a Full Stack Developer.  
 I create a variety of projects from web/mobile to artificial intelligence.  
-Always striving for new challenges and continuous growth.
 
 ---
 
-## 🔥 대표 프로젝트 | Featured Projects
+## 대표 프로젝트 | Featured Projects
 
 - **[feelink_ios_app](https://github.com/hamret/feelink_ios_app)**: 필링크 iOS 앱 (Swift) / Feellink iOS app (Swift)
 - **[feelink_web](https://github.com/hamret/feelink_web)**: 필링크 웹 (HTML) / Feellink web (HTML)
 - **[capstone-project](https://github.com/hamret/capstone-project)**: 네이버맵-도서관 프로젝트 / Naver Map + Library project
-- **[movier-2025-1](https://github.com/hamret/movier-2025-1)**: 영화 추천 캡스톤 / Movie recommendation
+- **[Trump-comment-reaction](https://github.com/hamret/Trump-comment-reaction)**: 트럼프 관세정책 분석 프로젝트 / Analysis of Trump’s Tariff Policy and Public Reactions
 - **[Synatra-1.3B](https://github.com/hamret/Synatra-1.3B)**: 로컬 AI 모델 / Local AI model
 
 ---
 
-## 💡 관심 기술 | Interested Tech & Stack
+## 기술 | Stack
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -41,7 +39,6 @@ Always striving for new challenges and continuous growth.
 
 ## ✉️ 연락처 | Contact
 
-- 이메일/Email: _(원한다면 입력)_  
-- 블로그/Blog: _(원한다면 입력)_
+- 이메일/Email: daoll43000@gmail.com 
 
 ---
