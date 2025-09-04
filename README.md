@@ -47,6 +47,6 @@ I create a variety of projects from web/mobile to artificial intelligence.
 
 ## 연락처 | Contact
 
-- 이메일/Email: [daoll43000@gmail.com](mailto:daoll43000@gmail.com)
+- Email: [daoll43000@gmail.com](mailto:daoll43000@gmail.com)
 
 ---
