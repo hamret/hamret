@@ -21,6 +21,9 @@ I create a variety of projects from web/mobile to artificial intelligence.
 | [capstone-project](https://github.com/hamret/capstone-project) | 네이버맵-도서관 프로젝트 / Naver Map + Library project |
 | [Trump-comment-reaction](https://github.com/hamret/Trump-comment-reaction) | 트럼프 관세정책 분석 프로젝트 / Analysis of Trump’s Tariff Policy and Public Reactions |
 | [Synatra-1.3B](https://github.com/hamret/Synatra-1.3B) | 로컬 AI 모델 / Local AI model |
+| [race-line](https://github.com/hamret/race_line) | 추월 가능성을 분석해주는 YOLO FineTune 모델 / A fine-tuned YOLO model that analyzes overtaking opportunities |
+| [Online_Grooming](https://github.com/hamret/online_grooming_backsin) | 온라인 그루밍을 방지하기 위해 사전에 미리 감지하는 FineTune 모델/ A fine-tuned model that proactively detects online grooming to help prevent it. |
+
 
 ---
 
