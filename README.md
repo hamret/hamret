@@ -5,7 +5,7 @@
 풀스택 개발자 daoll (hamret) 입니다.  
 웹, 모바일, 프론트, 백엔드, LLM 모델 까지 다양한 프로젝트와 기술을 경험하며 성장하고 있습니다.  
 
-I'm hamret, a Full Stack Developer.  
+I'm daoll (hamret), a Full Stack Developer.  
 I create a variety of projects from web/mobile to artificial intelligence.
 
 </div>
