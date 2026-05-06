@@ -16,7 +16,7 @@ I create a variety of projects from web/mobile to artificial intelligence.
 
 | 프로젝트(Projects) | 설명(Description) |
 |:---|:--|
-| [feelink_ios_app](https://github.com/hamret/feelink_ios_app) | 필링크 iOS 앱 (Swift) / Feellink iOS app (Swift) |
+| [feelink_ios_app]| Feelink iOS 앱 (Swift) / Feellink iOS app (Swift) |
 | [feelink_web](https://github.com/hamret/feelink_web) | 필링크 웹 (HTML) / Feellink web (HTML) |
 | [capstone-project](https://github.com/hamret/capstone-project) | 네이버맵-도서관 프로젝트 / Naver Map + Library project |
 | [Trump-comment-reaction](https://github.com/hamret/Trump-comment-reaction) | 트럼프 관세정책 분석 프로젝트 / Analysis of Trump’s Tariff Policy and Public Reactions |
