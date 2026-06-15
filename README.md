@@ -1,12 +1,4 @@
 <div align="center">
-
-# 👋 Hi, I'm **daoll (hamret)**
-
-Full Stack Developer focusing on **web, mobile, and applied AI**.  
-사용자 가치에 집중해 **실제로 동작하는 서비스와 AI 모델**을 구현합니다.
-
-</div>
-
 ---
 
 ## 🧑‍💻 Profile
